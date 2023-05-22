@@ -50,3 +50,10 @@
 .lien-conteneur-photo:hover .photo-hover {
   display: flex;
 }
+h3{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+}
